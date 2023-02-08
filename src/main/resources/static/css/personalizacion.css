@@ -1,0 +1,65 @@
+#encabezado{
+    position:absolute;
+    top:0%;
+    left: 0%;
+    height:8%;
+    width:100%;
+    background-color:#FC46AA;
+    color: white;
+    padding-left: 15px;        
+}
+
+#menu{
+   position:absolute;
+    top:8%;
+    left: 0%;
+    height:4%;
+    width:100%;
+    background-color:#FC46AA;
+    color: black;
+    padding-left: 15px; 
+}
+#menu a:visited{
+    color:#FC46AA;
+}
+#menu a:hover{
+    background-color: #FC46AA;
+    color:white;
+}
+#Barralateral{
+    position:absolute;
+    top:12%;
+    left: 0%;
+    height:81%;
+    width:20%;
+    background-color:#FC94AF;
+    color: white;
+    padding-left: 15px; 
+    overflow:auto;
+}
+#contenido{
+    position:absolute;
+    top:12%;
+    left: 20%;
+    height:81%;
+    width:80%;
+    background-color:#F699CD;
+    color: white;
+    padding-left: 15px; 
+    overflow: auto;
+}
+#Piepagina{
+    position:absolute;
+    bottom:0%;
+    left: 0%;
+    height:7%;
+    width:100%;
+    background-color:#F25278;
+    color: black;
+    padding-left: 15px; 
+    text-align: center;
+}
+#Piepagina address{
+    display: inline;
+}
+
